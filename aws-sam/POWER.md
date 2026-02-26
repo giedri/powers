@@ -3,7 +3,7 @@ name: "aws-sam"
 displayName: "AWS SAM"
 description: "An opinionated Kiro Power to aid development with AWS Serverless Application Model (SAM). Includes MCP tooling and common usage patterns."
 keywords: ["aws", "sam", "serverless", "lambda", "cloudformation", "deployment"]
-author: "Help Me Build @ AWS"
+author: "AWS"
 ---
 
 # AWS Serverless Application Model (SAM) Power
